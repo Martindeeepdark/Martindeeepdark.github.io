@@ -1,22 +1,4 @@
-baseURL: "https://github.com/Martindeeepdark/Martindeeepdark.github.io"
-title: "Tech 趣探"
-theme: PaperMod
-
-params:
-  defaultTheme: auto # 自动切换日间/夜间模式
-  disableSpecial1stPost: true
-  ShowReadingTime: true
-
-menu:
-  main:
-    - identifier: posts
-      name: 文章
-      url: /posts/
-      weight: 10
-    - identifier: tags
-      name: 标签
-      url: /tags/
-      weight: 20
-
-social:
-  GitHub: "https://github.com/Martindeeepdark"
+baseURL: https://example.com
+languageCode: en-us
+title: My Hugo Blog
+theme: 'hugo-theme-reimu'
