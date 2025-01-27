@@ -1,4 +1,4 @@
-baseURL: "https://github.com/Martindeeepdark/Martindeepdark.githubo.io"
+baseURL: "https://github.com/Martindeeepdark/Martindeeepdark.github.io"
 title: "Tech 趣探"
 theme: PaperMod
 
@@ -19,4 +19,4 @@ menu:
       weight: 20
 
 social:
-  GitHub: "https://github.com/yourusername"
+  GitHub: "https://github.com/Martindeeepdark"
