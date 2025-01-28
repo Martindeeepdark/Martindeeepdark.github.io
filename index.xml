@@ -1,7 +1,63 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Hugo Blog</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/</link><description>Recent content on My Hugo Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate><atom:link href="https://github.com/Martindeeepdark/Martindeeepdark.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/post/hello/</link><pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/post/hello/</guid><description>💘 博麗 霊夢 💘</description></item><item><title>关于</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/about/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/about/</guid><description/></item><item><title>友情链接</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/friend/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/friend/</guid><description> 本站信息 站名： 拔剑Sketon 站长： 拔剑Sketon 申请方法 添加本站后，在本页留言，格式如下 ```yml - name: #您的名字 url: #您的网址 desc: #简短描述 image: #一张图片 ``` 小伙伴们</description></item><item><title/><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/readme/</guid><description>Hugo 使用指南 本指南记录了 Hugo 的基本使用方法和常用命令，方便快速查阅。
-安装 Hugo 1.1 安装 Hugo 扩展版 Hugo 扩展版支持 Sass/SCSS 等高级功能。推荐使用扩展版。 Linux/macOS：
-wget https://github.com/gohugoio/hugo/releases/download/v0.125.7/hugo_extended_0.125.7_linux-amd64.tar.gz tar -xzf hugo_extended_*.tar.gz sudo mv hugo /usr/local/bin/ 验证安装：
-复制 hugo version # 应输出：hugo v0.125.7+extended... 创建新文章 2.1 使用模板创建文章 Hugo 会根据 archetypes 目录下的模板文件生成新文章。 hugo new post/my-first-post.md 默认元数据： 新创建的文章会包含以下默认元数据：
---- title: &amp;#34;My First Post&amp;#34; date: 2023-10-01T15:00:00+08:00 draft: true --- 草稿状态： 默认情况下，新文章处于草稿状态（draft: true）。构建网站时不会包含草稿文章。
-本地开发与预览 3.1 启动本地开发服务器 使用以下命令启动本地服务器，实时预览网站效果： bash 复制 hugo server -D -w 参数说明：
--D：包含草稿文章。</description></item></channel></rss>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>My Hugo Blog</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/</link><description>Recent content on My Hugo Blog</description><generator>Hugo</generator><language>en-us</language><lastBuildDate>Wed, 15 Mar 2023 11:00:00 -0700</lastBuildDate><atom:link href="https://github.com/Martindeeepdark/Martindeeepdark.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Hello World</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/post/hello/</link><pubDate>Wed, 15 Mar 2023 11:00:00 -0700</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/post/hello/</guid><description>&lt;p>💘 博麗 霊夢 💘&lt;/p></description></item><item><title>关于</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/about/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/about/</guid><description/></item><item><title>友情链接</title><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/friend/</link><pubDate>Thu, 09 Jun 2022 20:12:52 +0800</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/friend/</guid><description>&lt;h2 id="本站信息">
+&lt;a class="header-anchor" href="#%e6%9c%ac%e7%ab%99%e4%bf%a1%e6%81%af">&lt;/a>
+本站信息
+&lt;/h2>&lt;ul>
+&lt;li>站名： 拔剑Sketon&lt;/li>
+&lt;li>站长： 拔剑Sketon&lt;/li>
+&lt;/ul>
+&lt;h2 id="申请方法">
+&lt;a class="header-anchor" href="#%e7%94%b3%e8%af%b7%e6%96%b9%e6%b3%95">&lt;/a>
+申请方法
+&lt;/h2>&lt;ul>
+&lt;li>添加本站后，在本页留言，格式如下&lt;/li>
+&lt;/ul>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-yml" data-lang="yml">&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">```yml&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>- &lt;span style="color:#f92672">name&lt;/span>: &lt;span style="color:#75715e">#您的名字&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">url&lt;/span>: &lt;span style="color:#75715e">#您的网址&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">desc&lt;/span>: &lt;span style="color:#75715e">#简短描述&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span> &lt;span style="color:#f92672">image&lt;/span>: &lt;span style="color:#75715e">#一张图片&lt;/span>
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#ae81ff">```&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;h2 id="小伙伴们">
+&lt;a class="header-anchor" href="#%e5%b0%8f%e4%bc%99%e4%bc%b4%e4%bb%ac">&lt;/a>
+小伙伴们
+&lt;/h2></description></item><item><title/><link>https://github.com/Martindeeepdark/Martindeeepdark.github.io/readme/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://github.com/Martindeeepdark/Martindeeepdark.github.io/readme/</guid><description>&lt;h1 id="hugo-使用指南">
+&lt;a class="header-anchor" href="#hugo-%e4%bd%bf%e7%94%a8%e6%8c%87%e5%8d%97">&lt;/a>
+Hugo 使用指南
+&lt;/h1>&lt;p>本指南记录了 Hugo 的基本使用方法和常用命令，方便快速查阅。&lt;/p>
+&lt;ol>
+&lt;li>安装 Hugo
+1.1 安装 Hugo 扩展版
+Hugo 扩展版支持 Sass/SCSS 等高级功能。推荐使用扩展版。&lt;/li>
+&lt;/ol>
+&lt;p>Linux/macOS：&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>wget https://github.com/gohugoio/hugo/releases/download/v0.125.7/hugo_extended_0.125.7_linux-amd64.tar.gz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>tar -xzf hugo_extended_*.tar.gz
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>sudo mv hugo /usr/local/bin/
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>验证安装：&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>复制
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>hugo version
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>&lt;span style="color:#75715e"># 应输出：hugo v0.125.7+extended...&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;ol start="2">
+&lt;li>创建新文章
+2.1 使用模板创建文章
+Hugo 会根据 archetypes 目录下的模板文件生成新文章。&lt;/li>
+&lt;/ol>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-bash" data-lang="bash">&lt;span style="display:flex;">&lt;span>hugo new post/my-first-post.md
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>默认元数据：
+新创建的文章会包含以下默认元数据：&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" style="color:#f8f8f2;background-color:#272822;-moz-tab-size:4;-o-tab-size:4;tab-size:4;">&lt;code class="language-markdown" data-lang="markdown">&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>title: &amp;#34;My First Post&amp;#34;
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>date: 2023-10-01T15:00:00+08:00
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>draft: true
+&lt;/span>&lt;/span>&lt;span style="display:flex;">&lt;span>---
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>草稿状态：
+默认情况下，新文章处于草稿状态（draft: true）。构建网站时不会包含草稿文章。&lt;/p>
+&lt;ol start="3">
+&lt;li>本地开发与预览
+3.1 启动本地开发服务器
+使用以下命令启动本地服务器，实时预览网站效果：&lt;/li>
+&lt;/ol>
+&lt;p>bash
+复制
+hugo server -D -w
+参数说明：&lt;/p></description></item></channel></rss>
