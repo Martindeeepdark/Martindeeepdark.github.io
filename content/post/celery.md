@@ -1,7 +1,7 @@
 ---
 title: "celery分布式调度"
 date: 2025-01-28T00:20:36+08:00
-draft: true
+draft: fasle
 ---
 
 # Celery 分布式调度：原理、实践与应用
